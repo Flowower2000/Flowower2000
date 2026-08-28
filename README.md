@@ -1,9 +1,34 @@
-# Hola, soy Abril Marianella Flores 👋
-Estudiante de la carrera de Ingeniería Informática.
+# Hola, soy Abril Marianella Flores ✨
 
-Actualmente cursando Sistemas Operativos 2.
+**Estudiante de Ingeniería Informática (Universidad Nacional de Jujuy - UNJu)**
 
-### Sobre mí
-* 💻 **Lenguajes:** Me gusta programar en python y Java.
-* 🎮 **Gaming:** En mi tiempo libre juego a Minecraft.
-* 📺 **Series/Anime:** Actualmente viendo The Last of Us.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7928CA&height=12&section=header" width="100%" />
+
+<table border="1">
+  <tr>
+    <td width="30%" align="center" valign="middle">
+      <img src="https://i.pinimg.com/originals/e4/26/70/e426702dd874e11014a37e00469ecdd1.gif" width="100%" alt="Cafecito con leche" />
+    </td>
+    <td width="70%" valign="top">
+      <br />
+      <ul>
+        <li>☕ <b>Lenguajes:</b> Me gusta programar en <b>Java</b> y <b>Python</b>, además de trabajar con <b>PostgreSQL</b>.</li>
+        <li>🎮 <b>Gaming & Hobbies:</b> En mi tiempo libre juego a <i>Minecraft</i> y me gusta escuchar música en inglés.</li>
+        <li>📺 <b>Series / Anime:</b> Me interesan las historias de misterio y ciencia ficción.</li>
+        <li>⚡ <b>Dato curioso:</b> Todo bug se resuelve mejor con una buena taza de café con leche.</li>
+      </ul>
+      <br />
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Flowower2000&show_icons=true&theme=tokyonight&hide_border=true&title_color=7928CA" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flowower2000&layout=compact&theme=tokyonight&hide_border=true&title_color=7928CA" width="48%" />
+</div>
+
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7928CA&height=12&section=footer" width="100%" />
