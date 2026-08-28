@@ -7,7 +7,7 @@
 <table border="1">
   <tr>
     <td width="30%" align="center" valign="middle">
-      <img src="https://i.pinimg.com/originals/e4/26/70/e426702dd874e11014a37e00469ecdd1.gif" width="100%" alt="Cafecito con leche" />
+      <img src="./coffe.gif" width="100%" alt="Cafecito con leche" />
     </td>
     <td width="70%" valign="top">
       <br />
@@ -21,14 +21,5 @@
     </td>
   </tr>
 </table>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Flowower2000&show_icons=true&theme=tokyonight&hide_border=true&title_color=7928CA" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flowower2000&layout=compact&theme=tokyonight&hide_border=true&title_color=7928CA" width="48%" />
-</div>
-
-<br />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=7928CA&height=12&section=footer" width="100%" />
